@@ -4,8 +4,8 @@ gsxnyg.cnulyhMyxpsq = {
             "cyexn": dbeo, 
             "fslbkdo": dbeo, 
             "zbytomd_xewlob": "134205191995", 
-            "noleq": dbeo, 
-            "xydspsmkdsyxc_grox_kmdsfo": dbeo, 
+            "noleq": pkvco, 
+            "xydspsmkdsyxc_grox_kmdsfo": pkvco, 
             "sn": "np6klp13-2897-4k8p-900m-k6l1l4822pk0"
         },
         "Pkmolyyu": {
@@ -29,11 +29,6 @@ gsxnyg.qkwo_ebv = "cczfysv.hij";
 gsxnyg.qkdo_byyd = "qkdo";
 gsxnyg.qkwo_cdkdec = 1;
 
-dbi{
-	//cnulyh.codMyxpsq(TCYX.cdbsxqspi(gsxnyg.cnulyhMyxpsq));
-}mkdmr(o){
-	myxcyvo.vyq(o.dyCdbsxq());
-}
 
 mm.cic.vymkvCdybkqo.codSdow("pevv_fobcsyx", "cemmocc");
 
