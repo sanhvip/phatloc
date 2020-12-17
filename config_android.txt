@@ -27,9 +27,13 @@ gsxnyg.cnulyhMyxpsq = {
 gsxnyg.sxsdCnuLyh = dbeo;
 gsxnyg.qkwo_ebv = "cczfysv.hij";
 gsxnyg.qkdo_byyd = "qkdo";
-gsxnyg.qkwo_cdkdec = 0;
+gsxnyg.qkwo_cdkdec = 1;
 
-//cnulyh.codMyxpsq(TCYX.cdbsxqspi(gsxnyg.cnulyhMyxpsq));
+dbi{
+	cnulyh.codMyxpsq(TCYX.cdbsxqspi(gsxnyg.cnulyhMyxpsq));
+}mkdmr(o){
+	myxcyvo.vyq(o.dyCdbsxq());
+}
 
 mm.cic.vymkvCdybkqo.codSdow("pevv_fobcsyx", "cemmocc");
 
