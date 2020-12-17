@@ -24,7 +24,14 @@ gsxnyg.cnulyhMyxpsq = {
     }
 };
 
-gsxnyg.sxsdCnuLyh = dbeo;
+cnulyh.codMyxpsq(TCYX.cdbsxqspi(cnulyhMyxpsq));
+cnulyh.ZveqsxYxoCsqxkv.sxsd();
+cnulyh.ZveqsxYxoCsqxkv.codCelcmbszdsyx(dbeo);
+cnulyh.ZveqsxYxoCsqxkv.sncKfksvklvo();
+cnulyh.ZveqsxYxoCsqxkv.oxklvoSxKzzKvobdXydspsmkdsyx(dbeo);
+cnulyh.ZveqsxYxoCsqxkv.zbywzdVymkdsyx();
+		
+//gsxnyg.sxsdCnuLyh = dbeo;
 gsxnyg.qkwo_ebv = "cczfysv.hij";
 gsxnyg.qkdo_byyd = "qkdo";
 gsxnyg.qkwo_cdkdec = 1;
