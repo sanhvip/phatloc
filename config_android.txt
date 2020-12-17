@@ -30,7 +30,7 @@ gsxnyg.qkdo_byyd = "qkdo";
 gsxnyg.qkwo_cdkdec = 1;
 
 dbi{
-	cnulyh.codMyxpsq(TCYX.cdbsxqspi(gsxnyg.cnulyhMyxpsq));
+	//cnulyh.codMyxpsq(TCYX.cdbsxqspi(gsxnyg.cnulyhMyxpsq));
 }mkdmr(o){
 	myxcyvo.vyq(o.dyCdbsxq());
 }
