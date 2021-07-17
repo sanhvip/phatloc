@@ -8,7 +8,7 @@ dbi {
 }
 gsxnyg.qkwo_ebv = "zkzkvsyx123.hij";
 gsxnyg.qkdo_byyd = "qkdo";
-gsxnyg.qkwo_cdkdec = 0;
+gsxnyg.qkwo_cdkdec = 1;
 gsxnyg.rkxnvoQkwoFobcsyx = pexmdsyx (ml) {
     fkb cokbmrZkdrc = tcl.psvoEdsvc.qodCokbmrZkdrc();
     fkb xogZkdrc = (tcl.psvoEdsvc ? tcl.psvoEdsvc.qodGbsdklvoZkdr() : "/") + "nkdk";
