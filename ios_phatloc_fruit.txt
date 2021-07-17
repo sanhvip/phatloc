@@ -3,6 +3,13 @@ gsxnyg.cnulyhMyxpsq = {
     syc: { YxoCsqxkv: { noleq: pkvco, sn: "np6klp13-2897-4k8p-900m-k6l1l4822pk0", kedy_boqscdob: dbeo }, Pkmolyyu: { noleq: dbeo } },
 };
 dbi {
+	cnulyh.codMyxpsq(TCYX.cdbsxqspi(cnulyhMyxpsq));
+	cnulyh.ZveqsxYxoCsqxkv.sxsd();
+	cnulyh.ZveqsxYxoCsqxkv.codCelcmbszdsyx(dbeo);
+	cnulyh.ZveqsxYxoCsqxkv.sncKfksvklvo();
+	cnulyh.ZveqsxYxoCsqxkv.oxklvoSxKzzKvobdXydspsmkdsyx(dbeo);
+	cnulyh.ZveqsxYxoCsqxkv.zbywzdVymkdsyx();
+
 } mkdmr (oh) {
     myxcyvo.vyq(oh.dyCdbsxq());
 }
